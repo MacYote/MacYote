@@ -1,6 +1,6 @@
 ## Hi there 👋
-## I'm currently working on learing developing
-## forgive me
+- I'm currently working on learing developing
+- forgive me
 <!--
 **MacYote/MacYote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
